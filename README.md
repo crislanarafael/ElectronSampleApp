@@ -1,4 +1,4 @@
-# System Info App using Electron JS
+# System Info App using Electron JS :computer:
 
 
 I created a desktop app using Electron JS that displays my system information and packaged it as an executable for people to use.
